@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Andreza+Borges;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br/>
 <br/>
-<div>
-  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrezacb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrezacb&layout=compact&langs_count=16&title_color=4B0082&text_color=A020F0&bg_color=000000&border_color=7FFF00"/>
+<div style="display: flex">
+  <img align="center" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrezacb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrezacb&layout=compact&langs_count=16&title_color=4B0082&text_color=A020F0&bg_color=000000&border_color=7FFF00"/>
 </div>
 <br/>
 <div  align="center"> 
