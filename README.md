@@ -1,8 +1,8 @@
 ### Olá!! Bem-vindo ao meu perfil, me chamo Andreza Borges 🤙
 <br/>
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezacb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezacb&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andrezacb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrezacb&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
